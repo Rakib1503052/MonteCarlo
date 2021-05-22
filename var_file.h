@@ -1,5 +1,5 @@
-#ifndef VAR_FILE
-#define VAR_FILE
+#ifndef VAR_FILE_H
+#define VAR_FILE_H
 
 using namespace std;
 
@@ -9,5 +9,4 @@ using namespace std;
 int S[5][5];
 double arr_W[5][5] = {0};
 
-#endif // VAR_FILE
-
+#endif // VAR_FILE_H

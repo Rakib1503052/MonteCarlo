@@ -1,5 +1,5 @@
-#ifndef FUNCTION_FILE
-#define FUNCTION_FILE
+#ifndef FUNCTION_FILE_H
+#define FUNCTION_FILE_H
 
 using namespace std;
 
@@ -9,5 +9,5 @@ double compute_W(int i, int j);
 int RNG(int a, int b);
 void init_array(void);
 
-#endif // FUNCTION_FILE
+#endif // FUNCTION_FILE_H
 
