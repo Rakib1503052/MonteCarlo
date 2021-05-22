@@ -1,3 +1,4 @@
+#include "function_file.h"
 #include <ctime>
 #include <random>
 

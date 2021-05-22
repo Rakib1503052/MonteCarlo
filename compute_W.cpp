@@ -1,4 +1,5 @@
 #include "var_file.h"
+#include "function_file.h"
 #define _USE_MATH_DEFINES
 #include <cmath>
 

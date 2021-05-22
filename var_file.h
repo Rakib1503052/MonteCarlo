@@ -7,6 +7,6 @@ using namespace std;
 #define S_bar 1
 
 int S[5][5];
-double arr_W[5][5] = {0};
+double arr_W[5][5];
 
 #endif // VAR_FILE_H
