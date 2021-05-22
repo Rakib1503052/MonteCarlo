@@ -1,5 +1,5 @@
 #include "var_file.h"
-#include "common_file.h"
+#include "function_file.h"
 #include <iostream>
 
 int main()
